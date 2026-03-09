@@ -1,5 +1,17 @@
-# Blog de Recetas Fit 🥗
+import BaseLayout from '../layouts/BlogPost.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
-¡Bienvenido al blog de recetas saludables! Aquí encontrarás opciones nutritivas y deliciosas para mantenerte en forma sin sacrificar el sabor.
-
-Este sitio fue generado automáticamente con Astro y se actualiza diariamente con 5 nuevas recetas.
+---
+<BaseLayout
+	title={SITE_TITLE}
+	description={SITE_DESCRIPTION}
+	pubDate={new Date('March 09 2026')}
+	heroImage="../../assets/blog-placeholder-about.jpg"
+>
+	<p>
+		¡Bienvenido al blog de recetas saludables! Aquí encontrarás opciones nutritivas y deliciosas para mantenerte en forma sin sacrificar el sabor.
+	</p>
+	<p>
+		Este sitio fue generado automáticamente con Astro y se actualiza diariamente con 5 nuevas recetas.
+	</p>
+</BaseLayout>
