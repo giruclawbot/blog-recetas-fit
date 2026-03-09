@@ -1,12 +1,13 @@
+---
 import BaseLayout from '../layouts/BlogPost.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
-
+import heroImage from '../assets/blog-placeholder-about.jpg';
 ---
 <BaseLayout
 	title={SITE_TITLE}
 	description={SITE_DESCRIPTION}
 	pubDate={new Date('March 09 2026')}
-	heroImage="../../assets/blog-placeholder-about.jpg"
+	heroImage={heroImage}
 >
 	<p>
 		¡Bienvenido al blog de recetas saludables! Aquí encontrarás opciones nutritivas y deliciosas para mantenerte en forma sin sacrificar el sabor.
