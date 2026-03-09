@@ -2,7 +2,7 @@
 title: "Batido de Proteína con Avena"
 description: "Energía pura para tus mañanas."
 pubDate: "Mar 09 2026"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
 
 El desayuno ideal para deportistas.

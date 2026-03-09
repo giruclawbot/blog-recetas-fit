@@ -2,7 +2,7 @@
 title: "Ensalada de Pollo y Aguacate"
 description: "Una ensalada rica en proteínas y grasas saludables."
 pubDate: "Mar 09 2026"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 Esta ensalada es perfecta para un almuerzo rápido y nutritivo.

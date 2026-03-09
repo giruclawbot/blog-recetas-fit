@@ -2,7 +2,7 @@
 title: "Tortitas de Avena y Claras"
 description: "Desayuno saludable, alto en fibra y proteína."
 pubDate: "Mar 09 2026"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
 
 Empieza el día con energía con estas deliciosas tortitas.

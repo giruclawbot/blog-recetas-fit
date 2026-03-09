@@ -2,7 +2,7 @@
 title: "Quinoa con Verduras Salteadas"
 description: "Plato vegetariano completo y saciante."
 pubDate: "Mar 09 2026"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "../../assets/blog-placeholder-5.jpg"
 ---
 
 Una opción excelente para el almuerzo que te mantendrá lleno más tiempo.

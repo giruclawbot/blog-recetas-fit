@@ -2,7 +2,7 @@
 title: "Salmón con Espárragos al Horno"
 description: "Cena ligera, rica en omega-3."
 pubDate: "Mar 09 2026"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "../../assets/blog-placeholder-4.jpg"
 ---
 
 Una cena elegante y saludable lista en 20 minutos.
